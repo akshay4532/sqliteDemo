@@ -29,4 +29,5 @@ dependencies {
     implementation 'com.android.support:design:28.0.0'
     implementation 'com.jakewharton:butterknife:8.3.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.3.0'
+    implementation 'org.jetbrains:annotations-java5:15.0'
 }
